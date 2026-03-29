@@ -1,4 +1,4 @@
-# Corne ZMK config
+## Corne ZMK config
 
 ## Resources
 - [Default corne config](https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/corne/corne.conf)
